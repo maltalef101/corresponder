@@ -1,3 +1,3 @@
 # corresponder 
 
-A terminal based E-mail client written in Rust 🦀
+A terminal based E-mail client written in Rust  🦀
